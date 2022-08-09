@@ -1,7 +1,7 @@
 .App {
   text-align: center;
 }
-
+/*
 .App-logo {
   height: 40vmin;
   pointer-events: none;
@@ -12,7 +12,7 @@
     animation: App-logo-spin infinite 20s linear;
   }
 }
-
+*/
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
@@ -28,6 +28,16 @@
   color: #61dafb;
 }
 
+.item-card{
+  background-color: cadetblue;
+  width: 400px;
+  margin: 10px;
+  text-decoration: none;
+}
+ul{
+  list-style: none;
+}
+/*
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
@@ -36,3 +46,4 @@
     transform: rotate(360deg);
   }
 }
+*/
